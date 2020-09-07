@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #fd4345;
+}
+
+#about {
+  margin-top: 20px;
+  margin-left: 50px;
+  width: 70%;
+}
+
+footer {
+  background-color: #36454f;
+  color: white;
+  position: fixed;
+  height: 50px;
+  bottom: 0;
+  line-height: 50px;
+  width: 100%;
+}
+
+.portfolio {
+  height: 120px;
+  width: 160px;
+  position: relative;
+}
+
+#shane_pic {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+figure {
+  position: relative;
+}
+
+figcaption {
+  position: relative;
+  bottom: 20px;
+  background-color: #36454f;
+  color: white;
+  width: 160px;
+  text-align: center;
+}
+
+body {
+  background-color: #fdfdfd;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.appBtns {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+
+.code {
+  margin-left: 10px;
+}
+
+.webBtn {
+  width: 212.14px;
+}
+
+.resume-frame {
+  height: 65vh;
+}
